@@ -1,6 +1,6 @@
 # RetoSemana1(Proceso de actualizacion)
 # REPOSITORIO DE ESTUDIO
-> Aquí se encuentran algunos conceptos que aprendimos durante esta semana los cuales serán utiles a lo largo de nuestro viaje.
+> Aquí se encuentran algunos conceptos que aprendimos durante esta semana, los cuales serán utiles a lo largo de nuestro viaje.
 ![](https://www.evolmind.com/articulos/img/2018/05/guia-elearning-1024x484.jpg)
 
 ------------
