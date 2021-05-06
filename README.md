@@ -4,7 +4,7 @@
 ![](https://www.evolmind.com/articulos/img/2018/05/guia-elearning-1024x484.jpg)
 
 ------------
-## Conceptos
+## CONCEPTOS
 ------------
 
 ## ☁️ Computacion en la nube 
