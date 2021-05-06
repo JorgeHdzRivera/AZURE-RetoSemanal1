@@ -1,4 +1,9 @@
 # RetoSemana1(Proceso de actualizacion)
+# REPOSITORIO DE ESTUDIO
+> Aquí se encuentran algunos conceptos que aprendimos durante esta semana que nos ayudaran  en nuesro viaje.
+![](https://www.evolmind.com/articulos/img/2018/05/guia-elearning-1024x484.jpg)
+
+------------
 
 ## ☁️ Computacion en la nube 
 ![Imagen](https://blog.conzultek.com/hs-fs/hubfs/Imported_Blog_Media/computacion-en-la-nube.jpg?width=899&name=computacion-en-la-nube.jpg)
