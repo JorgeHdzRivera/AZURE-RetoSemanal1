@@ -32,4 +32,4 @@ Azure es una plataforma de computación en la nube con un conjunto de servicios 
 ## Codigo
 Es es un conjunto de líneas de texto con los pasos que debe seguir la computadora para ejecutar un programa.
 ## Repositorio
-Definición: Es un espacio centralizado donde se almacena, organiza, mantiene y difunde información digital, habitualmente archivos informáticos, que pueden contener trabajos científicos, conjuntos de datos o software .
+Es un espacio centralizado donde se almacena, organiza, mantiene y difunde información digital, habitualmente archivos informáticos, que pueden contener trabajos científicos, conjuntos de datos o software .
