@@ -4,7 +4,6 @@
 ![](https://www.evolmind.com/articulos/img/2018/05/guia-elearning-1024x484.jpg)
 
 ------------
-## CONCEPTOS
 ------------
 
 ## ☁️ Computacion en la nube 
@@ -23,8 +22,9 @@ Es la prestación de servicios informáticos a través de Internet, que de otro 
 - Agilidad:Los recursos basados en la nube se pueden implementar y configurar rápidamente a medida que cambian los requisitos de la aplicación.
 - Distribución geográfica:Las aplicaciones y los datos se pueden implementar en centros de datos regionales de todo el mundo, por lo que sus clientes siempre tienen el mejor rendimiento de su región.
 - Recuperación ante desastres: Aprovechando los servicios de copia de seguridad basados en la nube, la replicación de datos y la distribución geográfica, puede implementar las aplicaciones con la confianza que proviene de saber que los datos son seguros en caso de que se produzca un desastre.
-
-
+-------------
+## CONCEPTOS
+-------------
 ## Azure   
 ![Imagen](https://i1.wp.com/derechodelared.com/wp-content/uploads/2021/03/azure-1.png)
 
