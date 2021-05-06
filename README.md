@@ -1,6 +1,6 @@
 # RetoSemana1(Proceso de actualizacion)
 # REPOSITORIO DE ESTUDIO
-> Aquí se encuentran algunos conceptos que aprendimos durante esta semana que nos ayudarán  en nuestro viaje.
+> Aquí se encuentran algunos conceptos que aprendimos durante esta semana los cuales serán utiles a lo largo de nuestro viaje.
 ![](https://www.evolmind.com/articulos/img/2018/05/guia-elearning-1024x484.jpg)
 
 ------------
@@ -29,7 +29,7 @@ Es la prestación de servicios informáticos a través de Internet, que de otro 
 ![Imagen](https://i1.wp.com/derechodelared.com/wp-content/uploads/2021/03/azure-1.png)
 
 Azure es una plataforma de computación en la nube con un conjunto de servicios en constante expansión para ayudarle a crear soluciones para cumplir sus objetivos empresariales. Los servicios de Azure van desde servicios web sencillos para hospedar la presencia empresarial en la nube hasta ejecutar equipos totalmente virtualizados para que pueda ejecutar sus soluciones de software personalizadas
-## Codigo
+## Código
 Es es un conjunto de líneas de texto con los pasos que debe seguir la computadora para ejecutar un programa.
 ## Repositorio
 Es un espacio centralizado donde se almacena, organiza, mantiene y difunde información digital, habitualmente archivos informáticos, que pueden contener trabajos científicos, conjuntos de datos o software .
