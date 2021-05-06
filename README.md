@@ -29,3 +29,7 @@ Es la prestación de servicios informáticos a través de Internet, que de otro 
 ![Imagen](https://i1.wp.com/derechodelared.com/wp-content/uploads/2021/03/azure-1.png)
 
 Azure es una plataforma de computación en la nube con un conjunto de servicios en constante expansión para ayudarle a crear soluciones para cumplir sus objetivos empresariales. Los servicios de Azure van desde servicios web sencillos para hospedar la presencia empresarial en la nube hasta ejecutar equipos totalmente virtualizados para que pueda ejecutar sus soluciones de software personalizadas
+## Codigo
+Es es un conjunto de líneas de texto con los pasos que debe seguir la computadora para ejecutar un programa.
+## Repositorio
+Definición: Es un espacio centralizado donde se almacena, organiza, mantiene y difunde información digital, habitualmente archivos informáticos, que pueden contener trabajos científicos, conjuntos de datos o software .
