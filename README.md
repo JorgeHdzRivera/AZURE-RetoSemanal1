@@ -41,9 +41,6 @@ La Inteligencia Artificial (IA) es la combinación de algoritmos planteados con 
 
 ## Aplicaciones de IA
 
-Asistentes Personales Virtuales: 
-Chatbots interactivos que podrán sugerirnos productos, restaurantes, hoteles, servicios, según nuestro historial de búsquedas.
-Logistica y Transporte:
-Seráútil a la hora de evitar colisiones o atascos y también para optimizar el tráfico . 
-Sanidad:
-La recolección de datos genera patrones que ayudan a identificar factores genéticos susceptibles de desarrollar una enfermedad.
+- Asistentes Personales Virtuales: Chatbots interactivos que podrán sugerirnos productos, restaurantes, hoteles, servicios, según nuestro historial de búsquedas.
+- Logística y Transporte: Será util a la hora de evitar colisiones o atascos y también para optimizar el tráfico.
+- Sanidad: Ya existen chatbots que nos preguntan por nuestros síntomas, la recolección de datos genera patrones que ayudan a identificar factores genéticos susceptibles de desarrollar una enfermedad.
