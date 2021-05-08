@@ -39,4 +39,7 @@ Es un espacio centralizado donde se almacena, organiza, mantiene y difunde infor
 
 La Inteligencia Artificial (IA) es la combinación de algoritmos planteados con el propósito de crear máquinas que presenten las mismas capacidades que el ser humano. Una tecnología que todavía nos resulta lejana y misteriosa, pero que desde hace unos años está presente en nuestro día a día a todas horas.
 
+## Aplicaciones de IA
 
+Asistentes Personales Virtuales: 
+Chatbots interactivos que podrán sugerirnos productos, restaurantes, hoteles, servicios, según nuestro historial de búsquedas.
