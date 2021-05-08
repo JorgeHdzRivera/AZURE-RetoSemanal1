@@ -43,3 +43,7 @@ La Inteligencia Artificial (IA) es la combinación de algoritmos planteados con 
 
 Asistentes Personales Virtuales: 
 Chatbots interactivos que podrán sugerirnos productos, restaurantes, hoteles, servicios, según nuestro historial de búsquedas.
+Logistica y Transporte:
+Seráútil a la hora de evitar colisiones o atascos y también para optimizar el tráfico . 
+Sanidad:
+La recolección de datos genera patrones que ayudan a identificar factores genéticos susceptibles de desarrollar una enfermedad.
