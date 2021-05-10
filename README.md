@@ -44,3 +44,11 @@ La Inteligencia Artificial (IA) es la combinación de algoritmos planteados con 
 - Asistentes Personales Virtuales: Chatbots interactivos que podrán sugerirnos productos, restaurantes, hoteles, servicios, según nuestro historial de búsquedas.
 - Logística y Transporte: Será util a la hora de evitar colisiones o atascos y también para optimizar el tráfico.
 - Sanidad: Ya existen chatbots que nos preguntan por nuestros síntomas, la recolección de datos genera patrones que ayudan a identificar factores genéticos susceptibles de desarrollar una enfermedad.
+
+## Maquina Virtual
+
+Software que permite emular  el funcionamiento de un ordenador dentro de un ordenador, con todos los componentes  de hardware que necesita para funcionar y puede ejecutar  cualquier sistema operativo .
+
+## Sistema Operativo
+
+Conjunto de programas qu epermite manejar la memoria, discos, medios de almacenamiento y los diferentes periféricoséricos o recursos de nuestra computadora
