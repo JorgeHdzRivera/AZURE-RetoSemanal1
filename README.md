@@ -52,3 +52,11 @@ Software que permite emular  el funcionamiento de un ordenador dentro de un orde
 ## Sistema Operativo
 
 Conjunto de programas qu epermite manejar la memoria, discos, medios de almacenamiento y los diferentes periféricoséricos o recursos de nuestra computadora
+
+## Servidor 
+
+Conjunto de computadoras  capaz de atender las peticiones del cliente y devolverle una respuesta en concordancia.
+
+## Lenguaje de Programación  
+
+Lenguaje formal que le proporciona una persona, en este caso el programador, la capacidad de escribir una serie de instrucciones en forma de algoritmos con el fin de controlar el comportamiento físico ylógico de un sistema informático.
